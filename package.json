@@ -1,0 +1,33 @@
+{
+  "name": "jsAPP",
+  "version": "0.0.0",
+  "description": "This is my first nodeJS app",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Spanarchie/jsAPP"
+  },
+  "keywords": [
+    "example",
+    "JS",
+    "Heroku"
+  ],
+  "author": "Colin Moore-Hill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Spanarchie/jsAPP/issues"
+  },
+  "homepage": "https://github.com/Spanarchie/jsAPP",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.0.0"
+  }
+  {
+    "engines": {
+      "node" : "1.4.3"
+      }
+  }
+}
